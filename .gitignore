@@ -1,0 +1,18 @@
+# Compilación
+bin/
+obj/
+
+# Paquetes NuGet
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Base de datos (¡CRÍTICO!)
+App_Data/*.mdf
+App_Data/*.ldf
+
+# Logs
+*.log
